@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<h1>Kangkang Xu's Biography</h1>
+<p>
+    When I was 10 years old, I was introduced to computers for the first time. I was at first just addicted to the novelty that computers brought to me. Most of the time it was used for chatting with friends and playing video games. As I grew up, computer became an important role in my study and leisure.
+</p>
+<p>
+    I became interested in coding when I was first introduced to it in high school. Then later, I learned that I could make a lot of <strong>money</strong> through coding. So I decided to study a code-related major in college.
+</p>
+
+<h2>Personal Information</h2>
+<p>
+    I usually relax by reading novels, playing video games, and listening to music.
+</p>
+
+<h2>Hobbies</h2>
+<ul>
+    <li>Reading novels</li>
+    <li>Playing video games</li>
+    <li>Listening to music</li>
+</ul>
+
+<hr>&#169;</hr>
+
+</html>
